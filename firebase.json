@@ -1,0 +1,8 @@
+{
+  "firestore": {
+    "database": "legal-lens-52acb",
+    "location": "us-central1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
